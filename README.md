@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexwang-data/Urban-Arrhythmia/blob/main/MONITOR-1.png"width="500">
+</p>
+
 # Mapping-Urban-Arrhythmia
 
 ## 🌐 Website
