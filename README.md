@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/172237d2268633f7612b251da096bf253d7739ed/MONITOR-1.png"width="500">
+  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/305936b7201e78314a5e64ab9a425fc10da3ded6/MONITOR-ON.png"width="500">
 </p>
 
 # Mapping-Urban-Arrhythmia
