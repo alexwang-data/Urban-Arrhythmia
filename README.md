@@ -31,6 +31,7 @@ library(tidyverse)    # for data cleaning and manipulation
 library(sf)           # for spatial analysis
 library(jsonlite)     # for JSON export
 ```
+
 <p align="center">
   <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/faf76a6211606d15ab38e6968fa0ed2cfb38d7f3/MONITOR-2.png"width="500">
 </p>
