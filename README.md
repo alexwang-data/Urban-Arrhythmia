@@ -11,8 +11,7 @@ https://alexwang-data.github.io/Urban-Arrhythmia/
 Local representation starts with a map boundary. Urban Arrhythmia is an interactive visualization that translates New York City's 51 council districts into distinct heartbeats. Explore the map to test district boundaries: is that irregular rhythm an oddly drawn border, or just the natural curve of the shoreline?
 
 <p align="center">
-  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/900a25d20b7b44cf4bd5c2bbeb7ba397c3a73252/TRIAGE.png
-"width="500">
+  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/900a25d20b7b44cf4bd5c2bbeb7ba397c3a73252/TRIAGE.png"width="500">
 </p>
 
 ## 📁 Data
