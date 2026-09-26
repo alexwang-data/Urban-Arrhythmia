@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/172237d2268633f7612b251da096bf253d7739ed/MONITOR-ON.png"width="500">
+  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/172237d2268633f7612b251da096bf253d7739ed/MONITOR-1.png"width="500">
 </p>
 
 # Mapping-Urban-Arrhythmia
@@ -33,7 +33,7 @@ library(jsonlite)     # for JSON export
 ```
 
 <p align="center">
-  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/faf76a6211606d15ab38e6968fa0ed2cfb38d7f3/MONITOR-OFF.png"width="500">
+  <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/faf76a6211606d15ab38e6968fa0ed2cfb38d7f3/MONITOR-2.png"width="500">
 </p>
 
 ## ⚖️ License
