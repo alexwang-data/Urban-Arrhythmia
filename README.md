@@ -2,7 +2,7 @@
   <img src="https://github.com/alexwang-data/Urban-Arrhythmia/blob/305936b7201e78314a5e64ab9a425fc10da3ded6/MONITOR-ON.png"width="500">
 </p>
 
-# Mapping-Urban-Arrhythmia: A Compactness Analysis of New York City Council Districts
+# Mapping-Urban-Arrhythmia: <br>A-Compactness-Analysis-of-New-York-City-Council-Districts
 
 ## 🌐 Website
 https://alexwang-data.github.io/Urban-Arrhythmia/
