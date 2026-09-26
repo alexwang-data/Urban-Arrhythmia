@@ -1,6 +1,3 @@
-getwd()
-setwd("/Users/alexwang/Desktop/Urban Arrhythmia")
-
 library(tidycensus)   # for census data
 library(tidyverse)    # for data cleaning and manipulation
 library(sf)           # for spatial analysis
@@ -9,7 +6,7 @@ library(jsonlite)     # for JSON export
 
 
 # census api key
-census_api_key("e97c73bd65f33b498b063dfb35dae27e0e3bedaf")
+census_api_key("INSERT API KEY")
 
 # define geographic parameter
 
