@@ -6,7 +6,7 @@ library(jsonlite)     # for JSON export
 
 
 # census api key
-census_api_key("INSERT API KEY")
+census_api_key("INSERT API KEY HERE")
 
 # define geographic parameter
 
