@@ -15,3 +15,20 @@ https://data.census.gov/
 
 NYC Department of City Planning; 2023 New York City Council districts<br>
 https://www.nyc.gov/content/planning/pages/resources/datasets/city-council
+
+## 📚 Libraries
+```r
+library(tidycensus)   # for Census API
+library(tidyverse)    # for data cleaning and manipulation
+library(sf)           # for spatial analysis
+library(jsonlite)     # for JSON export
+```
+
+## ⚖️ License
+
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
